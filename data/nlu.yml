@@ -16,6 +16,11 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - chào
+    - xin chào
+    - xin chào bạn
+    - chào bạn
+    - à nhô
 
 - intent: goodbye
   examples: |
@@ -29,6 +34,13 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - tạm biệt
+    - hẹn gặp lại
+    - out
+    - ê
+    - bot ui
+    - bot ơi
+    - em ơi
 
 - intent: affirm
   examples: |
@@ -38,6 +50,9 @@ nlu:
     - of course
     - that sounds good
     - correct
+    - được
+    - chắc vậy
+    - tán thành
 
 - intent: deny
   examples: |
@@ -48,6 +63,8 @@ nlu:
     - don't like that
     - no way
     - not really
+    - không
+    - từ chối
 
 - intent: mood_great
   examples: |
